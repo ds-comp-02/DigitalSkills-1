@@ -1,5 +1,7 @@
 DigitalSkills
 
+https://github.com/masyanru/DigitalSkills
+
 install docker mongodb-clients nodejs npm ns-common git
 
 docker run --name mongo --net fabmedical -p 27017:27017 -d mongo:4.0
